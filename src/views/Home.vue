@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Header -->
-    <parallax-section img="images/10228.jpg" title="Servimav S.R.L">
+    <parallax-section img="images/grass3.jpg" title="Servimav S.R.L">
       <template v-slot:before-title>
         <img src="images/logo_transparent.png" alt="Servimav Logo" style="width:15rem" />
       </template>
