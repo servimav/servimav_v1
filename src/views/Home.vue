@@ -29,7 +29,7 @@
     <!-- / Offers -->
 
     <parallax-section img="images/road.jpg" title="Empresa">
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste veritatis dignissimos</p>
+      <p>Sobre SERVIMAV S.R.L</p>
     </parallax-section>
 
     <!-- team -->

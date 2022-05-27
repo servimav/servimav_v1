@@ -1,15 +1,15 @@
 export const team = [{
-  description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex amet ipsam porro eaque animi, soluta nobis veniam et qui? Temporibus quam et maxime delectus repudiandae molestias repellendus molestiae distinctio natus?',
+  description: 'Administrador, Natural de Palmira, Técnico en Agronomía',
   email: 'andresantonio63@nauta.cu',
   img: 'images/default.jpg',
   name: 'Andrés A. Guerra Monzón',
-  phone: '55555555',
+  phone: '59886570',
   rank: 'Administrador, Socio'
 }, {
-  description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex amet ipsam porro eaque animi, soluta nobis veniam et qui? Temporibus quam et maxime delectus repudiandae molestias repellendus molestiae distinctio natus?',
+  description: 'Jefe de Control Interno, Socio principal de la MiPYME, Natural de Palmira, Técnico en Comercio',
   email: 'servimav@yahoo.com',
-  img: 'images/default.jpg',
+  img: 'images/arelys_3.jpg',
   name: 'Arelys Capote Pulido',
-  phone: '55555555',
+  phone: '51332548',
   rank: 'Jefe de Control Interno, Socio'
 }];

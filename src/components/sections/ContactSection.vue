@@ -25,7 +25,7 @@
               </a>
             </li>
             <li>
-              <a href="https://facebook.com/servimavsrl">
+              <a href="https://wa.me/message/Y54XFXFT2B3VG1">
                 <i class="icon-whatsapp"></i>
                 <span>Whatsapp</span>
               </a>

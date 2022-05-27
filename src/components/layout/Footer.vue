@@ -33,15 +33,21 @@
               </a>
             </li>
             <li>
-              <a href="tel:55555555">
+              <a href="tel:59887002">
                 <i class="icon-phone"></i>
-                <span>55555555</span>
+                <span>+53 59887002</span>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://wa.me/message/Y54XFXFT2B3VG1">
+                <i class="icon-whatsapp"></i>
+                <span>Whatsapp</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://facebook.com/servimavsrl">
                 <i class="icon-facebook"></i>
-                <span>Facebook</span>
+                <span>Página de Facebook</span>
               </a>
             </li>
           </ul>
