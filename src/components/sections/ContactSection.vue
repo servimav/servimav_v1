@@ -4,18 +4,39 @@
       <div class="row">
         <div class="col-md-5">
           <h2>Información de Contacto</h2>
-          <p>She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains.</p>
+          <p>Puede contactarnos mediante vía telefónica, email, Whatsapp, Facebook o en nuestro domicilio
+            legal.</p>
 
           <p>
-            Calle Silencio #32 e/ Calle Cerize y Calle Villuendas
+            Nos encontramos en: Calle Silencio #32 e/ Calle Cerize y Calle Villuendas
             <br />Palmira, Cienfuegos, República de Cuba
           </p>
-          <p>
-            <a href="mailto:servimav@yahoo.com">servimav@yahoo.com</a>
-          </p>
-          <p>
-            <a href="#">+123 456 7890</a>
-          </p>
+          <ul class="fh5co-social">
+            <li>
+              <a href="mailto:servimav@yahoo.com">
+                <i class="icon-envelope"></i>
+                <span>servimav@yahoo.com</span>
+              </a>
+            </li>
+            <li>
+              <a href="tel:59887002">
+                <i class="icon-phone"></i>
+                <span>+53 59887002</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://facebook.com/servimavsrl">
+                <i class="icon-whatsapp"></i>
+                <span>Whatsapp</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://facebook.com/servimavsrl">
+                <i class="icon-facebook"></i>
+                <span>Página de Facebook</span>
+              </a>
+            </li>
+          </ul>
         </div>
         <div class="col-md-6 col-md-push-1">
           <form action="#">

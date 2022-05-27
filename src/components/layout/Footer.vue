@@ -4,7 +4,10 @@
       <div class="row">
         <div class="col-md-4">
           <h3>Sobre Nosotros</h3>
-          <p>Servimav S.R.L Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, unde repellat. Doloremque vitae nisi, mollitia vero ad amet.</p>
+          <p class="text-justify">Servimav S.R.L es una MiPYME que brinda de servicios de chapea manual y mecanizada,
+            poda, tala, carga y
+            recogida
+            de escombros, guataquea y jardinería.</p>
         </div>
         <div class="col-md-3 col-md-push-1">
           <h3>Documentos</h3>

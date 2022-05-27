@@ -9,7 +9,8 @@
             </div>
             <div class="fh5co-text">
               <h3>Chapea</h3>
-              <p>Mantenimiento de áreas verdes en vías, parques, centros deportivos, instituciones públicas, empresas e industrias</p>
+              <p>Mantenimiento de áreas verdes en vías, parques, centros deportivos, instituciones públicas, empresas e
+                industrias</p>
             </div>
           </div>
         </div>
@@ -20,7 +21,8 @@
             </div>
             <div class="fh5co-text">
               <h3>Tala y Acarreo</h3>
-              <p>Tala y acarreo de escombros en carreteras, vías de ferrocarril, líneas de transmisión eléctrica y de comunicaciones</p>
+              <p>Tala y acarreo de escombros en carreteras, vías de ferrocarril, líneas de transmisión eléctrica y de
+                comunicaciones</p>
             </div>
           </div>
         </div>
@@ -32,7 +34,8 @@
             </div>
             <div class="fh5co-text">
               <h3>Certificaciones</h3>
-              <p>Certificados por Ministerio de Economía y Planificación, ONAT, Registro Mercantil de Cuba y Notaría de la República</p>
+              <p>Certificados por Ministerio de Economía y Planificación, ONAT, Registro Mercantil de Cuba y Notaría de
+                la República</p>
             </div>
           </div>
         </div>
@@ -42,8 +45,8 @@
               <i class="icon-paper-plane"></i>
             </div>
             <div class="fh5co-text">
-              <h3>Expertise</h3>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <h3>Limpieza y embellecimiento</h3>
+              <p>Limpieza de áreas verdes, recogida de escombros, cuidado de plantas</p>
             </div>
           </div>
         </div>

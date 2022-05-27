@@ -10,7 +10,14 @@
     <!-- / Header -->
 
     <!-- Brief Description -->
-    <image-text-section img="images/logo.png" />
+    <image-text-section img="images/logo.png">
+      <h2>Sobre SERVIMAV</h2>
+      <p class="text-justify">Somos una MiPYME dedicada al cuidado, mantenimiento y embellecimiento de las áreas verdes
+        de nuestros pueblos y ciudades. Nuestra intención es brindarle a los ciudadanos una vista refrescante de las
+        áreas verdes.</p>
+      <p>Nuestro aporte es permitir una fusión limpia y perceptible de la obra hecha por el hombre con la hecha por la
+        naturaleza.</p>
+    </image-text-section>
 
     <!-- / Brief Description -->
 
@@ -30,18 +37,24 @@
     <!--/ team -->
 
     <!-- Registros -->
-    <text-section title="Documentación Legal">
-      <div class="col-md-6">
-        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.</p>
+    <text-section title="Objeto Social">
+      <div class="col-md-6 text-justify">
+        <p>Nuestro objeto social es: Prestación de servicios de chapea manual y mecanizada, poda, tala, carga y recogida
+          de escombros, guataquea, jardinería en líneas de transmisión eléctricas y de comunicación, vías públicas
+          (carreteras, líneas de ferrocarril, puertos), terrenos municipales (parques, zonas verdes, cementerios,
+          etcétera), edificios públicos y semipúblicos (escuelas, hospitales, edificios administrativos, iglesias,
+          etcétera), edificios industriales y comerciales, terrenos deportivos, parques infantiles y otros parques de
+          recreo para mejorar el paisajismo de nuestros pueblos y comunidades.</p>
       </div>
-      <div class="col-md-6">
-        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.</p>
+      <div class="col-md-6 text-justify">
+        <p>Puede solicitarnos una copia digital de nuestra Información Legal contactándonos a nuestro email, teléfonos,
+          redes sociales o visitándo nuestro Domicilio Legal.</p>
       </div>
     </text-section>
     <!-- / Registros -->
 
     <parallax-section img="images/grass2.jpg" title="Contacto">
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste veritatis dignissimos</p>
+      <p>No dude en contactarnos</p>
     </parallax-section>
     <contact-section />
   </div>
