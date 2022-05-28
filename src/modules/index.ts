@@ -1,7 +1,7 @@
 export const team = [{
   description: 'Administrador, Natural de Palmira, Técnico en Agronomía',
   email: 'andresantonio63@nauta.cu',
-  img: 'images/default.jpg',
+  img: 'images/andres.jpg',
   name: 'Andrés A. Guerra Monzón',
   phone: '59886570',
   rank: 'Administrador, Socio'
