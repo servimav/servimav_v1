@@ -3,14 +3,14 @@
     <!-- Header -->
     <parallax-section img="images/grass3.jpg" title="Servimav S.R.L">
       <template v-slot:before-title>
-        <img src="images/logo_transparent.png" alt="Servimav Logo" style="width:15rem" />
+        <img src="images/logo/logo_x128.png" alt="Servimav Logo" style="width:15rem" />
       </template>
       <p>Cuidando la belleza de la naturaleza</p>
     </parallax-section>
     <!-- / Header -->
 
     <!-- Brief Description -->
-    <image-text-section img="images/logo.png">
+    <image-text-section img="images/logo/logo.png">
       <h2>Sobre SERVIMAV</h2>
       <p class="text-justify">Somos una MiPYME dedicada al cuidado, mantenimiento y embellecimiento de las áreas verdes
         de nuestros pueblos y ciudades. Nuestra intención es brindarle a los ciudadanos una vista refrescante de las

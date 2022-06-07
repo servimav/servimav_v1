@@ -39,7 +39,7 @@
           </ul>
         </div>
         <div class="col-md-6 col-md-push-1">
-          <form action="#">
+          <form method="post" action="#">
             <div class="form-group">
               <input type="text" class="form-control" placeholder="Nombre" />
             </div>
